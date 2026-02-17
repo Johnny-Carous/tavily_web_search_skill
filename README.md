@@ -215,8 +215,3 @@ set DEBUG=tavily* && node scripts\tavily-v2.js --query "test"
 
 ### 2026-02-16
 - **初始版本**：基础搜索功能，包含 `tavily.js` 脚本和简单集成
-
-## 相关文档
-
-- [TOOLS.md](../TOOLS.md#tavily-搜索集成) - 工作空间工具文档
-- [技能文档](./skill/tavily-search-skill/SKILL.md) - OpenClaw技能说明
