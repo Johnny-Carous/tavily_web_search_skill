@@ -22,7 +22,7 @@ tavily/
 │   └── tavily-search-skill/
 │       └── SKILL.md              # 技能文档
 └── docs/                     # 文档
-│   └── README.md                  # 项目说明文档
+│   └── README.md                 # 项目说明文档
 ```
 
 ## 快速开始
