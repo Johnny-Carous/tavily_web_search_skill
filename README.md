@@ -215,3 +215,5 @@ set DEBUG=tavily* && node scripts\tavily-v2.js --query "test"
 
 ### 2026-02-16
 - **初始版本**：基础搜索功能，包含 `tavily.js` 脚本和简单集成
+
+## 仅供学习交流，严禁用于商业用途。
